@@ -1,2 +1,3 @@
 # hello-world
-short description
+practice repo
+I am the FBBC Director of IT
